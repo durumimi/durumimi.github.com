@@ -3,8 +3,8 @@ title: Codinfox Lanyon
 tagline: 'A Jekyll theme based on Lanyon'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: "/"
-url: http://codinfox.github.io
-logo: '/public/logo.png'
+url: http://durumimi.github.io
+logo: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbnwsZW%2FbtqDmmFtoQi%2Fhkni3JlyOkRspQoKROC3j0%2Fimg.png'
 
 # Site configurations
 gems:
@@ -39,14 +39,14 @@ author:
 nav:
   Home:           
     - '/'
-  Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+  Categories:           
+    - '/categories/'
+    - { TIL: '/categories/til/' }
+    - { ETC: '/categories/etc/' }
   About:          
     - '/about/'
   Github Project: 
-    - 'http://codinfox.github.io/'
+    - 'http://durumimi.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
