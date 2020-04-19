@@ -15,22 +15,17 @@ title: About
 
 개발자세계에서는 후크로 유명하거든  [@hook_dev](https://instagram.com/hook_dev).
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## 엉망징창살롱 CEO..
 
-Thanks for reading!
+엉망징창살롱 홈페이지도 가볼래?:
+
+* 엉망징창살롱 블로그 (http://blog.naver.com/fisinbi2)
+* [엉망징창살롱 티스토리](http://lanyon.getpoole.com)
+
+궁금하면 그냥 봐봐 ㅎㅎ
