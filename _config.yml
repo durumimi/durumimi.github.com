@@ -1,7 +1,7 @@
 # Site Info
-title: Codinfox Lanyon
+title: '두루미현의 개발일찌'
 tagline: '두루미현의 개발일찌'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+description: '마케팅과 프로그래밍 공부일지와 느낀점을 기록합니다.
 baseurl: "/"
 url: http://durumimi.github.io
 logo: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbnwsZW%2FbtqDmmFtoQi%2Fhkni3JlyOkRspQoKROC3j0%2Fimg.png'
@@ -41,8 +41,8 @@ nav:
     - '/'
   Categories:           
     - '/categories/'
-    - { TIL: '/categories/til/' }
-    - { ETC: '/categories/etc/' }
+    - { TIL: '/blog/categories/#til/' }
+    - { ETC: '/blog/categories/#etc/' }
   About:          
     - '/about/'
   Github Project: 
